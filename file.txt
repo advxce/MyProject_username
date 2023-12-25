@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 feature_merge_conflict1
 =======
 feature_merge_conflict2
 >>>>>>> feature_merge_conflict2
+=======
+feature_merge_conflict1
+>>>>>>> 1ec9071 (feature1)
